@@ -1,109 +1,214 @@
 {
-	"data": [
-		{
-			"timestamp": 1458000000,
-			"value": 63.422235
-		},
-		{
-			"timestamp": 1458003600,
-			"value": 72.012848
-		},
-		{
-			"timestamp": 1458007200,
-			"value": 90.228838
-		},
-		{
-			"timestamp": 1458010800,
-			"value": 63.096583
-		},
-		{
-			"timestamp": 1458014400,
-			"value": 47.667261
-		},
-		{
-			"timestamp": 1458018000,
-			"value": 69.652997
-		},
-		{
-			"timestamp": 1458021600,
-			"value": 64.702911
-		},
-		{
-			"timestamp": 1458025200,
-			"value": 62.883492
-		},
-		{
-			"timestamp": 1458028800,
-			"value": 275.134977
-		},
-		{
-			"timestamp": 1458032400,
-			"value": 204.24592
-		},
-		{
-			"timestamp": 1458036000,
-			"value": 30.437638
-		},
-		{
-			"timestamp": 1458039600,
-			"value": 65.915515
-		},
-		{
-			"timestamp": 1458043200,
-			"value": 60.647731
-		},
-		{
-			"timestamp": 1458046800,
-			"value": 30.737815
-		},
-		{
-			"timestamp": 1458050400,
-			"value": 36.813539
-		},
-		{
-			"timestamp": 1458054000,
-			"value": 48.769409
-		},
-		{
-			"timestamp": 1458057600,
-			"value": 51.612869
-		},
-		{
-			"timestamp": 1458061200,
-			"value": 52.51391
-		},
-		{
-			"timestamp": 1458064800,
-			"value": 55.178538
-		},
-		{
-			"timestamp": 1458068400,
-			"value": 108.105356
-		},
-		{
-			"timestamp": 1458072000,
-			"value": 305.601636
-		},
-		{
-			"timestamp": 1458075600,
-			"value": 270.042778
-		},
-		{
-			"timestamp": 1458079200,
-			"value": 170.784059
-		},
-		{
-			"timestamp": 1458082800,
-			"value": 57.51227
-		},
-		{
-			"timestamp": 1458086400,
-			"value": 60.109329
-		},
-		{
-			"timestamp": 1458090000,
-			"value": 32.578249
-		}
-	]
+  "meta": {
+    "comment": "Fake data"
+  },
+  "assets": [
+    {
+      "name": "Moana",
+      "skygoTotalViews": 1324,
+      "nowtvTotalViews": 4213,
+      "description": "To save her island home a plucky Polynesian teen must set sail and journey into the great blue yonder. Oscar-nominated Disney animation with the voice of Dwayne Johnson. (2016)(107 mins)",
+      "duration": 6420,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_moana.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/764b39c2db1bc510VgnVCM1000000b43150a____/BOXART",
+      "provider": "Sky Disney"
+    },
+    {
+      "name": "The Boss Baby",
+      "skygoTotalViews": 2352,
+      "nowtvTotalViews": 2512,
+      "description": "Animated comedy about a youngster concerned that his baby brother is actually a power-hungry tycoon sent to destroy his perfect family life. With the voice of Alec Baldwin. (2017)(94 mins)",
+      "duration": 5820,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_thebossbaby.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/246c96ac21a20610VgnVCM1000000b43150a____/LAND_16_9",
+      "provider": "Sky Cinema"
+    },
+    {
+      "name": "Trolls",
+      "skygoTotalViews": 2532,
+      "nowtvTotalViews": 9929,
+      "description": "A pair of fuzzy-headed trolls embark on a daring rescue mission when members of their tribe are kidnapped. Animation with the voices of Anna Kendrick and Justin Timberlake. (2016)(89 mins)",
+      "duration": 5580,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_trolls.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/b77c1deb8ad0d510VgnVCM1000000b43150a____/LAND_N_4_3",
+      "provider": "Sky Cinema"
+    },
+    {
+      "name": "Despicable Me 3",
+      "skygoTotalViews": 2415,
+      "nowtvTotalViews": 1525,
+      "description": "Dismissed from the Anti-Villain League after botching a mission, Gru sets off to meet his long-lost twin brother. Smash-hit animated sequel. (2017)(86 mins)",
+      "duration": 5340,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_despicableme3.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/88350069442f1610VgnVCM1000000b43150a____/LAND_N_4_3",
+      "provider": "Sky Cinema"
+    },
+    {
+      "name": "Frozen",
+      "skygoTotalViews": 2512,
+      "nowtvTotalViews": 1521,
+      "description": "A plucky princess heads into the frozen forest to search for her sister, whose powers have locked the kingdom in winter. Oscar-winning Disney animation with Kristen Bell. (2013)(98 mins)",
+      "duration": 6120,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_frozen.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/a3786c0cacc5e510VgnVCM1000000b43150a____/BOXART",
+      "provider": "Sky Disney"
+    },
+    {
+      "name": "Sing",
+      "skygoTotalViews": 5256,
+      "nowtvTotalViews": 3612,
+      "description": "Family animation about a theatre-owning koala who holds a singing competition in a last-ditch bid to stay afloat. With the voices of Matthew McConaughey and John C Reilly. (2016)(103 mins)",
+      "duration": 6420,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_sing.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/6c073db1c551f510VgnVCM1000000b43150a____/LAND_16_9",
+      "provider": "Sky Cinema"
+    },
+    {
+      "name": "Baywatch",
+      "skygoTotalViews": 3452,
+      "nowtvTotalViews": 2536,
+      "description": "Beloved lifeguard chief Dwayne Johnson must team up with cocky new recruit Zac Efron to take down a drug-dealing villain. Action comedy. (2017)(112 mins)",
+      "duration": 6960,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_baywatch.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/9697240164011610VgnVCM1000000b43150a____/LAND_16_9",
+      "provider": "Sky Cinema"
+    },
+    {
+      "name": "Spider-Man: Homecoming",
+      "skygoTotalViews": 2534,
+      "nowtvTotalViews": 2535,
+      "description": "Tom Holland is Peter Parker - an average teen with a web-slinging alter ego who must protect New York City from a menacing new villain. Superhero fun with Michael Keaton. (2017)(129 mins)",
+      "duration": 7980,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_spidermanhomecoming.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/77e5b08ae2f02610VgnVCM1000000b43150a____/LAND_N_4_3",
+      "provider": "Sky Cinema"
+    },
+    {
+      "name": "Pirates Of The Caribbean: Salazar's Revenge",
+      "skygoTotalViews": 5643,
+      "nowtvTotalViews": 2434,
+      "description": "...Salazar's Revenge: Swashbuckling high-seas adventure pitting Johnny Depp's Captain Jack Sparrow against undead pirate hunter Javier Bardem. With Geoffrey Rush. (2017)(124 mins)",
+      "duration": 7740,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_piratesofthecaribbean.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/041971c6418d0610VgnVCM1000000b43150a____/LAND_N_4_3",
+      "provider": "Sky Cinema"
+    },
+    {
+      "name": "Monster Family (2017)",
+      "skygoTotalViews": 3623,
+      "nowtvTotalViews": 3633,
+      "description": "The first Sky Cinema Original Film sees a young family cursed by a witch and transformed into monsters. Animated comedy with the voices of Emily Watson and Jason Isaacs. (2017)(90 mins)",
+      "duration": 5580,
+      "assetImage": "http://epgstatic.sky.com/epgdata/1.0/vodimage/0/0/Mas_monsterfamily.jpg",
+      "videoImage": "https://uk.imageservice.sky.com/contentid/b1595ae8164a1610VgnVCM1000000b43150a____/LAND_16_9",
+      "provider": "Sky Cinema"
+    }
+  ],
+  "data": [
+    {
+      "timestamp": 1458000000,
+      "value": 63.422235
+    },
+    {
+      "timestamp": 1458003600,
+      "value": 72.012848
+    },
+    {
+      "timestamp": 1458007200,
+      "value": 90.228838
+    },
+    {
+      "timestamp": 1458010800,
+      "value": 63.096583
+    },
+    {
+      "timestamp": 1458014400,
+      "value": 47.667261
+    },
+    {
+      "timestamp": 1458018000,
+      "value": 69.652997
+    },
+    {
+      "timestamp": 1458021600,
+      "value": 64.702911
+    },
+    {
+      "timestamp": 1458025200,
+      "value": 62.883492
+    },
+    {
+      "timestamp": 1458028800,
+      "value": 275.134977
+    },
+    {
+      "timestamp": 1458032400,
+      "value": 204.24592
+    },
+    {
+      "timestamp": 1458036000,
+      "value": 30.437638
+    },
+    {
+      "timestamp": 1458039600,
+      "value": 65.915515
+    },
+    {
+      "timestamp": 1458043200,
+      "value": 60.647731
+    },
+    {
+      "timestamp": 1458046800,
+      "value": 30.737815
+    },
+    {
+      "timestamp": 1458050400,
+      "value": 36.813539
+    },
+    {
+      "timestamp": 1458054000,
+      "value": 48.769409
+    },
+    {
+      "timestamp": 1458057600,
+      "value": 51.612869
+    },
+    {
+      "timestamp": 1458061200,
+      "value": 52.51391
+    },
+    {
+      "timestamp": 1458064800,
+      "value": 55.178538
+    },
+    {
+      "timestamp": 1458068400,
+      "value": 108.105356
+    },
+    {
+      "timestamp": 1458072000,
+      "value": 305.601636
+    },
+    {
+      "timestamp": 1458075600,
+      "value": 270.042778
+    },
+    {
+      "timestamp": 1458079200,
+      "value": 170.784059
+    },
+    {
+      "timestamp": 1458082800,
+      "value": 57.51227
+    },
+    {
+      "timestamp": 1458086400,
+      "value": 60.109329
+    },
+    {
+      "timestamp": 1458090000,
+      "value": 32.578249
+    }
+  ]
 }
 
